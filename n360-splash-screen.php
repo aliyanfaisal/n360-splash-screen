@@ -1,15 +1,15 @@
 <?php
 
 /*
- Plugin Name: N360 | Splash Screen
- Plugin URI: https://notion360.com/SplashScreen/
+ Plugin Name: Splash Screen For WordPress
+ Plugin URI: https://aliyanfaisal.com/
  Description: Creates a fading splash screen as a landing page for your Wordpress website
  Version: 1.0.8
  Author: bistromatic
- Author URI: https://notion360.com/
+ Author URI: https://aliyanfaisal.com/
  License: GPL v3 or later
  License URI: https://www.gnu.org/licenses/gpl-3.0.html License: GPLv2 or later
- Text Domain: n360splashscreen
+ Text Domain: afbsplashscreen
  Requires at least: 4.7
  Tested up to: 6.8.1
 */
